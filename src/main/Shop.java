@@ -1,4 +1,5 @@
 package main;
+ 
 
 import model.Product;
 import model.Sale;
